@@ -7,7 +7,7 @@ Learning focuses:
 -2D physics
 --Working with dynamic rigid bodies
 --Spring simulations
---Tourque/angular movement
+--Torque/angular movement
 --Gravity
 -Clear notation
 
@@ -18,7 +18,7 @@ Purpose of publishing:
 How to play:
 -You play as a miniature dirt bike rider in a world of giant obstacles.  Collect the coins and return to the red flag to complete the level  but be careful not to hit your head!
 
-Controlls:
+Controls:
 W - Accelerate
 S - Bake
 A - Rotate counter clockwise
